@@ -1,0 +1,9 @@
+#
+#/*
+!*.py
+!*.md
+
+*.txt
+*.xls
+*.doc
+test.py
